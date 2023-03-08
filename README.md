@@ -1,3 +1,3 @@
 # CICD For Real
 
-Teste
+Exercício para Trilha de Aprendizagem para QA
